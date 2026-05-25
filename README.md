@@ -13,6 +13,10 @@ A beautiful JavaFX-based application for managing and tracking student grades wi
 - ✅ Real-time student list display
 - ✅ Remove students functionality
 
+## Internship Project
+
+This project was developed as part of an internship program with @CodeAlpha
+
 ## Requirements
 
 - Java 17 or higher
@@ -140,3 +144,4 @@ mvn javafx:run
 ## License
 
 This project is created for educational purposes.
+#CodeAlpha
